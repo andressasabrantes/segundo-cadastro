@@ -1,3 +1,10 @@
+.nome,
+.sobrenome,
+.pet {
+    padding: 0,3rem;
+    text-align: center;
+    color: rgb(4, 25, 158);
+}
 .nome1,
 .sobrenome1,
 .pet1 {
