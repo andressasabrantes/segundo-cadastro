@@ -1,9 +1,9 @@
-.Laurytha,
-.Carlos,
-.Felicity {
+.nome,
+.sobrenome,
+.pet {
     padding: 0,3rem;
     text-align: center;
-    color: rgb(158, 4, 112);
+    color: rgb(4, 25, 158);
 }
 .marcelo,
 .juniort,
@@ -74,4 +74,11 @@
     padding: 0,3rem;
     text-align: center;
     color: rgb(4, 25, 158);
+}
+.Laurytha,
+.Carlos,
+.Felicity {
+    padding: 0,3rem;
+    text-align: center;
+    color: rgb(158, 4, 112);
 }
