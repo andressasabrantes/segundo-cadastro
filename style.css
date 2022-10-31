@@ -7,7 +7,7 @@
 }
 .marcelo,
 .juniort,
-.petnãoencontrado{
+.petnãoencontrado {
     padding: 0,3rem;
     text-align: center;
     color: rgb(4, 25, 158);
@@ -29,6 +29,13 @@
 .nome1,
 .sobrenome1,
 .pet1 {
+    padding: 0,3rem;
+    text-align: center;
+    color: rgb(4, 25, 158);
+}
+.gustavo,
+.brandao,
+.gato {
     padding: 0,3rem;
     text-align: center;
     color: rgb(4, 25, 158);
