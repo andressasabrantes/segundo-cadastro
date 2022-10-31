@@ -1,10 +1,3 @@
-.rafael,
-.galvao,
-.theo {
-    padding: 0,3rem;
-    text-align: center;
-    color: rgb(4, 25, 158);
-}
 .gustavo,
 .brandao,
 .gato {
@@ -41,9 +34,6 @@
     text-align: center;
     color: rgb(4, 25, 158);
 }
-<<<<<<< HEAD
-
-=======
 .livia,
 .rocha,
 .nito {
@@ -51,4 +41,10 @@
     text-align: center;
     color: rgb(4, 25, 158);
 }
->>>>>>> livia
+.rafael,
+.galvao,
+.theo {
+    padding: 0,3rem;
+    text-align: center;
+    color: rgb(4, 25, 158);
+}
